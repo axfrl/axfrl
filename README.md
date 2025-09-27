@@ -1,4 +1,4 @@
-## Anatole Forgiel
+## About me
 I am a 4th-year student at École Polytechnique, with strong foundations in physics and biology, and — of course — in mathematics and computer science. I am currently specializing at Télécom Paris in AI & Data.
 
 Throughout my studies I deliberately explored many fields that interested me, which turned me into a compact Swiss‑army knife: research and engineering in computer vision, deep learning, certifiable robustness, topological methods for skeletal data, and embedded systems (drones, real‑time tracking).
