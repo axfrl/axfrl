@@ -3,7 +3,7 @@ I am a 4th-year student at École Polytechnique, with strong foundations in phys
 
 Throughout my studies I deliberately explored many fields that interested me, which turned me into a compact Swiss‑army knife: research and engineering in computer vision, deep learning, certifiable robustness, topological methods for skeletal data, and embedded systems (drones, real‑time tracking).
 
-My most complete projects are hosted in the repositories on this profile — each project contains its own README, reproducible notebooks and installation instructions.
+My most complete projects are hosted in the repositories on this profile — enjoy ;)
 <!--
 **axfrl/axfrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
